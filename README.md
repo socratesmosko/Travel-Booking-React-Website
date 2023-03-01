@@ -1,6 +1,6 @@
 # Travel Booking Web App
 
-This is a travel ooking website inspired by Booking.com (front-end only). The website allows users to search for hotels and view travel destinations.
+This is a travel Booking website inspired by Booking.com (front-end only). The website allows users to search for hotels and view travel destinations.
 
 Technologies Used:
 • React.js
