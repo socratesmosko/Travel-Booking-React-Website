@@ -3,10 +3,10 @@
 This is a travel Booking website inspired by Booking.com (front-end only). The website allows users to search for hotels and view travel destinations.
 
 Technologies Used:
-• React.js
-• HTML
-• CSS
-• JavaScript
+- React.js
+- HTML
+- CSS
+- JavaScript
 
 To start the application, you can run:
 
