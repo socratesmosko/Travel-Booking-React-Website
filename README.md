@@ -8,6 +8,13 @@ Technologies Used:
 - CSS
 - JavaScript
 
+# Features
+- Fully Responsive
+- Mobile Navigations
+- Animated elements on scroll
+- Smooth scrolling in each section.
+- Sticky Navigation on scrolling
+
 To start the application, you can run:
 
 ### `npm start`
