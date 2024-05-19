@@ -4,7 +4,6 @@ This is a travel Booking react website inspired by Booking.com. The website allo
 
 Technologies Used:
 - React.js
-- HTML
 - CSS
 - JavaScript
 
@@ -17,7 +16,7 @@ Technologies Used:
 
 To start the application, you can run:
 
-### `npm start`
+### `npm install && npm start`
 
 ![Screenshottravel](https://user-images.githubusercontent.com/119309614/222019677-e20d1b98-1a18-4e29-afac-2b7ce28da954.png)
 
